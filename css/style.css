@@ -373,7 +373,7 @@
     .carousel-header .carousel-inner .carousel-item img,
     .carousel-header .carousel-inner .carousel-item .carousel-caption {
         height: 700px;
-        margin-top: -100px;
+        /* margin-top: -50px; */
     }
 
     .carousel-header {
@@ -1310,4 +1310,29 @@
     height: 350px;
   }
 }
+.contacts-form{
+     border:1px solid #f3eaea;
+    margin: 0 8px 0 8px;
+    padding: 12px;
+    border-radius: 15px;
+    background-color:#1C352D ;
+}
+.back-color{
+    background-color: #fff !important;
+}
 
+.popup-img img{
+    width:400px;
+    height:380px;
+        border-radius: 15px;
+
+}
+.popup-img{
+    padding-left: 20px;
+}
+/* .right-form{
+        padding: 15px;
+    margin-left: 10px;
+    width: 380px;
+    height: 350px;
+} */
