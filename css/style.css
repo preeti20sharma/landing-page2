@@ -363,7 +363,7 @@
 @media (max-width: 768px) {
     .carousel-header .carousel-inner .carousel-item {
         height: auto;
-        min-height: 520px;
+        min-height: 700px;
     }
 
     .carousel-header .carousel-inner .carousel-item .carousel-caption {
