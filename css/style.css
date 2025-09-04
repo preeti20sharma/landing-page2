@@ -1346,3 +1346,9 @@
     width: 380px;
     height: 350px;
 } */
+
+.price-text{
+    border: 1px solid #1C352D;
+    border-radius: 8px;
+    padding: 8px;
+}
