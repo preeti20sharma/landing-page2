@@ -1299,12 +1299,12 @@
     width:290px;   
   }    
 
-  /* .small-img {
-    left: -25px;          
-    top: 70%;          
-    width: 140px;         
-    height: 140px;
-  } */
+  .small-img {
+    left: -35px;          
+    top: 60%;          
+    width: 160px;         
+    height: 190px;
+  }
 }
 
 /* highlight end */
@@ -1352,11 +1352,11 @@
     border-radius: 8px;
     padding: 8px;
 }
-/* Mobile view ke liye */
 @media (max-width: 768px) {
   .national-item img {
-    height: 150px;         /* ⭐ yaha aap apni pasand ke hisaab se badha sakti ho (e.g., 220px, 250px) */
-    object-fit: cover;     /* image crop ho kar equally fit hogi */
-    width: 100%;           /* full column width */
+    height: 150px;        
+    object-fit: cover;     
+    width: 100%;           
   }
 }
+
