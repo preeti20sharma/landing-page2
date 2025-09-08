@@ -1277,7 +1277,7 @@ background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.9));
 .small-img {
   position: absolute;
   left: -80px;              
-  top: 60%;                 
+  top: 40%;                 
   transform: translateY(-50%);
   width: 200px;
   height: 240px;
